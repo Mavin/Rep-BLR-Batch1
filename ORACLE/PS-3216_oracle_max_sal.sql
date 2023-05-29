@@ -1,1 +1,1 @@
-select max(sal) from emp;
+select max(sal),min(sal) from emp;
