@@ -1,0 +1,1 @@
+select max(sal),min(sal) from emp;
